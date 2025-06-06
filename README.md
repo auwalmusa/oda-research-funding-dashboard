@@ -1,7 +1,9 @@
 
 # 🌍 ODA Research Funding Dashboard (MODARI-UKCDR)
+<p align="center">
+  <img src="https://github.com/auwalmusa/oda-research-funding-dashboard/blob/f5184ba6c475980977b60e05f58d8d10f6a01cc7/resources/dashboard.png" />
+</p>
 
----
 
 ## 📚 Project Background
 
@@ -88,6 +90,3 @@ A dynamic, single-page dashboard that empowers strategic funding decisions for g
 | `README.md`                   | Project overview and explanation             |
 | `modari_data.xlsx`            | Cleaned Dataset (optional if including data)  |
 
----
-
-![Dashboard Preview](./A_Power_BI_dashboard_titled_"Funding_Analysis"_for.png)
